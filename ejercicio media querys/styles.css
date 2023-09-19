@@ -1,0 +1,41 @@
+@media(max-width:576px){
+    button{
+        background-color: orangered;
+    }
+}
+@media(min-width:576px){
+    button{
+        background-color: orangered;
+        border-radius: 25%;
+    }
+}
+
+@media(min-width:768px){
+    button{
+        background-color: orangered;
+        border-radius: 25%;
+        color: white;
+    }
+}
+@media(min-width:992px){
+    button{
+        background-color: orangered;
+        border-radius: 25%;
+        color: white;
+        width: 500px;
+        height: 40px;
+    }
+}
+
+@media(min-width:1200px){
+    button{
+        background-color: orangered;
+        border-radius: 25%;
+        color: white;
+        width: 500px;
+        height: 40px;
+        border: 5px solid blue;
+    }
+}
+
+

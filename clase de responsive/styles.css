@@ -1,0 +1,63 @@
+
+/* Extra small  CELULAR*/
+@media(max-width: 576px){ 
+    body{
+        background-color: red;
+    }
+    h1{
+        font-family: 'Courier New', Courier, monospace;
+    }
+}
+
+/* Small  CELUAR*/
+
+@media(min-width: 577px){
+    body{
+        background-color: greenyellow;
+    }
+    h1{
+        color: blanchedalmond;
+        font-family:Verdana, Geneva, Tahoma, sans-serif
+    }
+
+}
+
+/* medium  TABLET*/
+@media(min-width: 768px){
+    body{
+        background-color: orange;
+    }
+    h1{
+        color: orangered;
+        font-family:Verdana, Geneva, Tahoma, sans-serif
+    }
+
+}
+
+
+/* large  MONITOR*/
+@media(min-width: 992px){
+    body{
+        background-color: blue;
+    }
+    h1{
+        color: blueviolet;
+        font-family:Verdana, Geneva, Tahoma, sans-serif
+    }
+
+}
+
+/* Extra Large  moitor*/
+@media(min-width: 1200px){
+    body{
+        background-color: black;
+    }
+    h1{
+        color: orangered;
+        font-family:Verdana, Geneva, Tahoma, sans-serif
+    }
+
+}
+
+
+
